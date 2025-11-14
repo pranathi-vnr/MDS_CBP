@@ -67,6 +67,12 @@ The `app.py` script runs a Flask web interface where users can:
 or  
 **⚠ Phishing Website Detected**  
 
+![Screenshot 1](https://github.com/user-attachments/assets/691d5090-a6a3-49dd-a8b5-ff382b9a0a71)
+
+![Screenshot 2](https://github.com/user-attachments/assets/cd57808a-2315-4a09-988e-e761e999bfb9)
+
+![Screenshot 3](https://github.com/user-attachments/assets/bedea758-d221-4a2f-8541-4de52c2b82b0)
+
 ---
 
 ## 🧪 How to Run the Project
@@ -80,10 +86,6 @@ conda install flask numpy pandas scikit-learn
 
 RUN
 python app.py
-
-<img width="619" height="379" alt="1" src="https://github.com/user-attachments/assets/691d5090-a6a3-49dd-a8b5-ff382b9a0a71" />
-<img width="627" height="418" alt="2" src="https://github.com/user-attachments/assets/cd57808a-2315-4a09-988e-e761e999bfb9" />
-<img width="595" height="423" alt="3" src="https://github.com/user-attachments/assets/bedea758-d221-4a2f-8541-4de52c2b82b0" />
 
 ## 🎨 User Interface
 
